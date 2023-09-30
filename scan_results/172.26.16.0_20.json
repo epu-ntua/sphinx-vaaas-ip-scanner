@@ -1,0 +1,28 @@
+{
+    "172.26.16.1": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": null,
+        "state": {
+            "state": "up",
+            "reason": "localhost-response",
+            "reason_ttl": "0"
+        }
+    },
+    "stats": {
+        "scanner": "nmap",
+        "args": "\"C:/Program Files (x86)/Nmap/nmap.exe\" -oX - -sn -n -T5 --min-parallelism 100 172.26.16.0/20",
+        "start": "1617976567",
+        "startstr": "Fri Apr 09 16:56:07 2021",
+        "version": "7.91",
+        "xmloutputversion": "1.05"
+    },
+    "runtime": {
+        "time": "1617976586",
+        "timestr": "Fri Apr 09 16:56:26 2021",
+        "summary": "Nmap done at Fri Apr 09 16:56:26 2021; 4096 IP addresses (1 host up) scanned in 18.45 seconds",
+        "elapsed": "18.45",
+        "exit": "success"
+    }
+}

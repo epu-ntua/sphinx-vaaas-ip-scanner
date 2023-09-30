@@ -1,0 +1,19 @@
+{
+  "DEV": {
+    "scan_id": "557af9d6-29e6-48c3-9f78-ee9ea9502227",
+    "update_id": "397913df-3b6f-4ec0-9fa5-99d7e4e2eb44",
+    "asset_host": "127.0.0.1",
+    "asset_port": "8002",
+    "redis_url": "10.0.1.220",
+    "redis_port": 6378
+  },
+  "PROD": {
+    "scan_id": "557af9d6-29e6-48c3-9f78-ee9ea9502227",
+    "update_id": "397913df-3b6f-4ec0-9fa5-99d7e4e2eb44",
+    "asset_host": "127.0.0.1",
+    "asset_port": "8002",
+    "redis_url": "127.0.0.1",
+    "redis_port": 6378
+  }
+}
+

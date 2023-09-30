@@ -1,0 +1,691 @@
+{
+    "10.0.1.20": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "FA:E6:76:C7:7E:D0",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.21": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "02:1F:D5:AA:A7:46",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.23": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "3A:02:12:64:19:F2",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.150": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "6A:55:7C:FD:98:6C",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.155": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "08:00:27:44:B6:DB",
+            "addrtype": "mac",
+            "vendor": "Oracle VirtualBox virtual NIC"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.200": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "02:61:EE:B7:EC:A4",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.201": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "22:26:4A:31:6C:62",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.202": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "86:AE:1E:5F:94:0F",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.203": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "3A:D9:95:1E:3D:B2",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.204": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "02:34:ED:AA:DA:99",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.205": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "5E:07:93:E6:42:FE",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.206": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "F2:4B:8A:34:18:10",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.220": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "42:BF:DD:51:68:BB",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.240": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "96:4A:F9:B2:BE:20",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.1.250": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "0A:42:1E:09:E8:BD",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.3.10": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "3E:54:C8:79:03:9B",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.20.20": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "00:50:C2:1E:AF:E0",
+            "addrtype": "mac",
+            "vendor": "Ieee Registration Authority"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.1": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "CE:FD:CB:62:25:2F",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.2": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "12:44:4C:47:0E:AD",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.3": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "9E:89:8F:CD:C5:AE",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.4": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "DA:AD:A6:74:35:F1",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.5": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "7E:81:86:27:F9:05",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.13": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "84:25:19:32:DC:29",
+            "addrtype": "mac",
+            "vendor": "Samsung Electronics"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.54": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "F0:1F:AF:D3:43:71",
+            "addrtype": "mac",
+            "vendor": "Dell"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.55": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "F0:1F:AF:D3:42:6B",
+            "addrtype": "mac",
+            "vendor": "Dell"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.98": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "18:E8:29:6C:72:3E",
+            "addrtype": "mac",
+            "vendor": "Ubiquiti Networks"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.99": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "A6:BF:8B:34:0F:08",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.100": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "EE:DE:91:8B:C9:E4",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.101": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "00:0A:F7:2F:9C:48",
+            "addrtype": "mac",
+            "vendor": "Broadcom"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.102": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "BC:5F:F4:89:D2:3F",
+            "addrtype": "mac",
+            "vendor": "ASRock Incorporation"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.103": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "BC:5F:F4:89:D1:AC",
+            "addrtype": "mac",
+            "vendor": "ASRock Incorporation"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.104": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "BC:5F:F4:89:D2:92",
+            "addrtype": "mac",
+            "vendor": "ASRock Incorporation"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.105": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "00:19:99:9F:4A:3D",
+            "addrtype": "mac",
+            "vendor": "Fujitsu Technology Solutions GmbH"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.100.150": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "02:9D:2A:B0:A8:EE",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.12": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "5A:0E:C7:96:09:26",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.22": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "8C:EC:4B:86:EF:C1",
+            "addrtype": "mac",
+            "vendor": "Dell"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.25": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "BC:5F:F4:89:D1:8C",
+            "addrtype": "mac",
+            "vendor": "ASRock Incorporation"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.27": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "8C:EC:4B:86:EE:18",
+            "addrtype": "mac",
+            "vendor": "Dell"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.32": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "8C:EC:4B:86:F0:DE",
+            "addrtype": "mac",
+            "vendor": "Dell"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.33": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "08:00:27:FA:4B:2D",
+            "addrtype": "mac",
+            "vendor": "Oracle VirtualBox virtual NIC"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.35": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "8C:EC:4B:86:F3:BB",
+            "addrtype": "mac",
+            "vendor": "Dell"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.111": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "FE:53:01:D7:F2:B8",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.139": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "F8:B1:56:1F:26:8E",
+            "addrtype": "mac",
+            "vendor": "Dell"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.162": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "E0:D4:E8:D2:1C:57",
+            "addrtype": "mac",
+            "vendor": "Intel Corporate"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.179": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "E6:64:1C:D8:E4:38",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.238": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": {
+            "addr": "8A:28:C8:F0:7B:D9",
+            "addrtype": "mac"
+        },
+        "state": {
+            "state": "up",
+            "reason": "arp-response",
+            "reason_ttl": "0"
+        }
+    },
+    "10.0.255.3": {
+        "osmatch": {},
+        "ports": [],
+        "hostname": [],
+        "macaddress": null,
+        "state": {
+            "state": "up",
+            "reason": "localhost-response",
+            "reason_ttl": "0"
+        }
+    },
+    "stats": {
+        "scanner": "nmap",
+        "args": "\"C:/Program Files (x86)/Nmap/nmap.exe\" -oX - -sn -n -T5 --min-parallelism 100 10.0.0.0/16",
+        "start": "1617976586",
+        "startstr": "Fri Apr 09 16:56:26 2021",
+        "version": "7.91",
+        "xmloutputversion": "1.05"
+    },
+    "runtime": {
+        "time": "1617976831",
+        "timestr": "Fri Apr 09 17:00:31 2021",
+        "summary": "Nmap done at Fri Apr 09 17:00:31 2021; 65536 IP addresses (47 hosts up) scanned in 245.35 seconds",
+        "elapsed": "245.35",
+        "exit": "success"
+    }
+}
